@@ -1,5 +1,9 @@
 # ClickHere ScreenShield Delay
 
+<p align="center">
+  <img src=".github/logo.png" alt="clickhere-screensheild-delay logo" width="128" />
+</p>
+
 A VB.NET console program that starts ScreenShield after a short delay.
 
 ## What it does
